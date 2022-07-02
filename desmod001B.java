@@ -1,5 +1,5 @@
 
-public class desafio003 {
+public class desmod001B {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
